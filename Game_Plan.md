@@ -11,6 +11,9 @@ Game assets
 * Door_Slam01.flac by corpocracy -- https://freesound.org/s/403355/ -- License: Attribution 3.0
 * Radio noise and static.wav by Johnny97 -- https://freesound.org/s/566449/ -- License: Creative Commons 0
 * number_station_female_voice_canon.flac by Trebblofang -- https://freesound.org/s/223001/ -- License: Creative Commons 0
+* Podcast music -- "Myst on the Moor" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+* real soft crying.wav by Reitanna -- https://freesound.org/s/241544/ -- License: Creative Commons 0
+* Monster Sounds #1.wav by popocot -- https://freesound.org/s/546652/ -- License: Attribution 4.0
 
 Minor scares
 ============
@@ -20,6 +23,7 @@ Audio
     * Normal show
     * Audio starts getting replaced
     * Audio is distorted
+    * https://podcastle.ai/editor/project/67df57d613701768dfa7858e
 * Music
     * Happy music becomes distorted/slowed
 
@@ -49,3 +53,7 @@ Medium scares
 Major scares
 ============
 * 
+
+Tutorial Content
+============
+* MetaHuman Animator Tutorial | Unreal Engine 5 - https://www.youtube.com/watch?v=hZ2mkcd4C7M
