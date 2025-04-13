@@ -14,6 +14,8 @@ Game assets
 * Podcast music -- "Myst on the Moor" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
 * real soft crying.wav by Reitanna -- https://freesound.org/s/241544/ -- License: Creative Commons 0
 * Monster Sounds #1.wav by popocot -- https://freesound.org/s/546652/ -- License: Attribution 4.0
+* Horror Sting (Apollyon) 6 by SilverIllusionist -- https://freesound.org/s/732890/ -- License: Attribution 4.0
+* Pouring Soup in a Metal Pan - Long,Slow,Nasty by Hitrison -- https://freesound.org/s/251411/ -- License: Attribution 4.0
 
 Minor scares
 ============
